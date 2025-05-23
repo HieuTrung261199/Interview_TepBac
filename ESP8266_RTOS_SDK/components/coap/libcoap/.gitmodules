@@ -1,0 +1,4 @@
+[submodule "ext/tinydtls"]
+	path = ext/tinydtls
+	url = https://jihulab.com/esp-mirror/eclipse-tinydtls/tinydtls
+    ignore = dirty
